@@ -1,0 +1,11 @@
+D:\Code\Training-excersises\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.deps.json
+D:\Code\Training-excersises\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.json
+D:\Code\Training-excersises\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.runtimeconfig.dev.json
+D:\Code\Training-excersises\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.dll
+D:\Code\Training-excersises\CountVowels\CountVowels\bin\Debug\netcoreapp2.1\CountVowels.pdb
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.csprojAssemblyReference.cache
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.csproj.CoreCompileInputs.cache
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfoInputs.cache
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.AssemblyInfo.cs
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.dll
+D:\Code\Training-excersises\CountVowels\CountVowels\obj\Debug\netcoreapp2.1\CountVowels.pdb
